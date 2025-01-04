@@ -18,6 +18,5 @@ UAPedia is a mobile application designed to be a one-stop resource for students 
 - **Accent:** #64bae0
 - **Text:** #1e4491
 
-## Getting Started
-
-This project utilizes Expo for development.
+## Download Now 
+https://uapedia-app.vercel.app/
